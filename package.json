@@ -10,6 +10,11 @@
     "calculator",
     "best"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elmerdotdev/npm_practice_best_calculator_ever.git"
+  },
+  "homepage": "https://elmer.dev",
   "author": "Elmer Balbin",
   "license": "ISC"
 }
