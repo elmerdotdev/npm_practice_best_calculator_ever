@@ -1,0 +1,15 @@
+{
+  "name": "@jrbalbin/best_calculator_ever",
+  "version": "1.0.0",
+  "description": "This is the best but simplest calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "calculator",
+    "best"
+  ],
+  "author": "Elmer Balbin",
+  "license": "ISC"
+}
